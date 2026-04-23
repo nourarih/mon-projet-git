@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: lightgray;
+  font-family: sans-serif;
+}
+img {
+  width: 200px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 8px;
+}
+a {
+  display: block;
+  margin-top: 20px;
+  font-weight: bold;
+  color: brown;
+  text-decoration: none;
+}
+
+
+
+
